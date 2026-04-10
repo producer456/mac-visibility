@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/primary.swiftdeps"
+  },
+  "/Users/admin/mac-visibility/MacHost/Sources/WebClientHTML.swift": {
+    "dependencies": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/WebClientHTML.d",
+    "object": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/WebClientHTML.swift.o",
+    "swiftmodule": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/WebClientHTML~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/WebClientHTML.swiftdeps",
+    "diagnostics": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/WebClientHTML.dia"
+  },
+  "/Users/admin/mac-visibility/MacHost/Sources/main.swift": {
+    "dependencies": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/main.d",
+    "object": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/main.swift.o",
+    "swiftmodule": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/main.swiftdeps",
+    "diagnostics": "/Users/admin/mac-visibility/MacHost/.build/arm64-apple-macosx/debug/MacVisibilityHost.build/main.dia"
+  }
+}
